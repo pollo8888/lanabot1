@@ -3,3 +3,4 @@ tgcrypto
 loguru
 random_address
 requests
+telepot
